@@ -6,7 +6,7 @@ Currently learning Java<br>
 
 # Tech Stack:
 - C
-- HTML, CSS, JS, jQuery, PHP, Next
+- HTML, CSS, JS, jQuery, PHP, Next JS
 - Python
 - SQL
 
