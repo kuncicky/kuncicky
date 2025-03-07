@@ -1,14 +1,13 @@
 # About Me:
-Studying <b>Computer Science</b><br>
-Full-Stack Developer<br>
-Currently learning Java<br>
+studying <b>CS</b><br>
+full stack dev<br>
+learning Java, Oracle SQL<br>
 
 
 # Tech Stack:
 - C
-- HTML, CSS, JS, jQuery, PHP, Next JS
-- Python
+- HTML, CSS, JS, jQuery, PHP
 - SQL
 
 # Working on:
-- RadBrewery - a minecraft brewery mod
+- currently nothing
