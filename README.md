@@ -1,6 +1,6 @@
 # About Me:
-studying <b>CS</b><br>
-full stack dev<br>
+studying CS<br>
+full-stack dev<br>
 learning Java, Oracle SQL<br>
 
 
